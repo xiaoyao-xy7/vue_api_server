@@ -1,1 +1,2 @@
 D:\Develop\xampp\mysql\bin 运行cmd操作mysql
+node app
